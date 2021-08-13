@@ -1,5 +1,6 @@
 .testimonials {
     padding: 100px 0px;
+    background-color:#6b6d6e ;
 }
 
 .testimonials .title h1::before {
@@ -16,10 +17,11 @@
 .testimonials-box {
     float: left;
     transition: margin 1s ease;
+    background-color:#555859 ;
 }
 
 .testimonials-img {
-    background-color: #fff;
+    background-color: #555859;
     margin-bottom: 15px;
     border: 1px solid rgb(226, 221, 221);
     padding: 40px 20px;
@@ -45,7 +47,7 @@
     font-size: 15px;
     font-weight: 400;
     line-height: 24px;
-    color: #838383;
+    color: white;
     margin: 0;
 }
 
